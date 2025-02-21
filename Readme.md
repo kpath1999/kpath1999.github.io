@@ -1,4 +1,4 @@
-# My blog
+# Georgia Tech AI Podcast
 
-This is my blog, uses [Jekyll](http://jekyllrb.com/). I was tired of bloated, slow Wordpress that locked up all my content.
+This is the Georgia Tech AI blog, uses [Jekyll](http://jekyllrb.com/). Website design by Andrej Karpathy.
 
