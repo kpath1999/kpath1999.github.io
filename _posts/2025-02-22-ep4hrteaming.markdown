@@ -27,7 +27,7 @@ mathjax: false
 
 In this conversation, Batuhan discusses the evolving landscape of human-robot collaboration, emphasizing the importance of effective teamwork between humans and robots in various industries. He introduces HybridNet, a scheduling algorithm designed to optimize task allocation in heterogeneous teams, while addressing challenges such as scalability, trust, communication, and lifelong learning. The discussion highlights the adaptability of humans compared to robots and the necessity for human supervision in automated systems.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Uskgoce9xVJHuYCVSaM0y/video?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/episode/66CQKWrURAYBrkyaYeaQlE?si=e1bd926410d54abc" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **The state of human-robot collaboration.** Human-robot collaboration (HRC) leverages the complementary strengths of humans and robots. Humans excel at adaptability and improvisation, while robots handle repetitive, precise, or hazardous tasks. Real-world examples, such as the Fukushima nuclear disaster and nurse-patient scheduling, highlight how collaboration outperforms fully autonomous systems. A key motivation for HRC is integrating robots into human spaces, removing physical barriers like cages in manufacturing while addressing safety and operational concerns.
 
