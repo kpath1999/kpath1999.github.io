@@ -27,16 +27,7 @@ mathjax: false
 
 In this conversation, Maithili addresses the importance of user-friendly interactions, proactivity, and personalization in robotic systems. She emphasizes the need for robots to understand human routines while respecting user agency and preferences. The conversation also touches on emotional recognition, the significance of datasets like HOMER, and the challenges of deploying robots in real-world settings, particularly in multi-user environments. Patel warns against the potential for robots to replace human relationships, advocating for their role as facilitators of social connections.
 
-<iframe 
-    style="border-radius:12px" 
-    src="https://open.spotify.com/embed/episode/1Uskgoce9xVJHuYCVSaM0y/video?utm_source=generator" 
-    width="790" 
-    height="100" 
-    frameBorder="0" 
-    allowfullscreen="" 
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-    loading="lazy">
-</iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Uskgoce9xVJHuYCVSaM0y/video?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **The inspiration behind Rosie the Robot.** Rosie the Robot from The Jetsons represents a vision of natural human-robot interaction that still inspires roboticists today. As Maithili notes, Rosie demonstrated an ability to interact with humans in a non-robotic way, emphasizing that humans shouldn't have to adapt to robots. While modern robots have evolved to understand natural language commands, Maithili's work aims to make interactions even more seamless, moving beyond the need for explicit programming or overly detailed instructions.
 
