@@ -27,7 +27,7 @@ mathjax: false
 
 In this conversation, Maithili addresses the importance of user-friendly interactions, proactivity, and personalization in robotic systems. She emphasizes the need for robots to understand human routines while respecting user agency and preferences. The conversation also touches on emotional recognition, the significance of datasets like HOMER, and the challenges of deploying robots in real-world settings, particularly in multi-user environments. Patel warns against the potential for robots to replace human relationships, advocating for their role as facilitators of social connections.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/1Uskgoce9xVJHuYCVSaM0y/video?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XFYgCRbc0Hc?si=oB52I2tXWIm7XeSw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **The inspiration behind Rosie the Robot.** Rosie the Robot from The Jetsons represents a vision of natural human-robot interaction that still inspires roboticists today. As Maithili notes, Rosie demonstrated an ability to interact with humans in a non-robotic way, emphasizing that humans shouldn't have to adapt to robots. While modern robots have evolved to understand natural language commands, Maithili's work aims to make interactions even more seamless, moving beyond the need for explicit programming or overly detailed instructions.
 
@@ -63,6 +63,6 @@ In this conversation, Maithili addresses the importance of user-friendly interac
 
 **Advice for AI researchers.** For aspiring AI researchers, Maithili emphasizes the importance of choosing research areas that genuinely interest them, given the rapidly changing landscape of AI technology. Success in a PhD program requires intrinsic motivation and finding the right advisor whose style matches yours.
 
-> More of a visual learner? There's a YouTube video too. Click [here](https://www.youtube.com/watch?v=XFYgCRbc0Hc&t=1307s).
+> On the go? There's an audio-only version too. Click [here](https://open.spotify.com/embed/episode/1Uskgoce9xVJHuYCVSaM0y/video?utm_source=generator).
 
 Maithili Patel is a Robotics PhD student in the Robot Autonomy and Interactive Learning (RAIL) lab, advised by Professor Sonia Chernova. The aim of her research is to address the longitudinal proactive assistance problem - understanding user routines and preferences, anticipating assistive opportunities over an extended period of time.

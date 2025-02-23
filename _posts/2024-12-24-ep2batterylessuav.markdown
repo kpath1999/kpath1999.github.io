@@ -27,7 +27,7 @@ mathjax: false
 
 In this episode, we delve into battery-free technologies, from UAVs that fly like birds to sensors that perform machine learning tasks amidst unpredictable energy conditions. This area is being researched by Rishabh Goel, as part of Professor Alexander Adams’ lab. Rishabh has also ventured into healthcare innovation with phantom organs, most recently a phantom lung.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/4tQVp0l21cQIgZC3jIUfdR?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAKvoZkC-Zo?si=mujF2MrVSPqDxeSh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Choosing projects.** His approach to selecting projects is straightforward: he pursues ideas he finds interesting and enjoyable. It could also help him learn a new skill. While he generates numerous ideas, he focuses on those that are fun for him - some of which eventually prove successful. Sustainability is a driving force behind this. He’s particularly interested in building products that stand the test of time, and capture energy from the surrounding environment in meaningful ways. There is abundant energy in our environment that’s often overlooked. Additionally, relying on fossil fuels and batteries can have adverse environmental impacts. There is a genuine need for more solutions that harness ambient energy.
 
@@ -68,6 +68,6 @@ The complexity of the project lies in its numerous interconnected variables and 
 
 **Moving forward.** There’s a lot happening right now. One big project is focused on a new way to harvest energy from impacts. On the vaping side, the team’s creating a device that snaps onto existing e-cigarettes and tracks when someone vapes, records the data, and sends it to an iPhone. Battery-free UAV work is ongoing and there are a few soft robotics projects keeping him busy as well.
 
-> More of a visual learner? There's a YouTube video too. Click [here](https://www.youtube.com/watch?v=fAKvoZkC-Zo&t=1408s).
+> On the go? There's an audio-only version too. Click [here](https://open.spotify.com/embed/episode/4tQVp0l21cQIgZC3jIUfdR?utm_source=generator).
 
 Rishabh's actively pushing the boundaries of engineering and sustainability. His work focuses on battery-free technologies and embedded systems. He’s one of the key minds behind Protean, a platform that enables battery-free sensors to perform advanced machine learning tasks while adapting to unpredictable energy conditions. He’s also explored the skies with his work on battery-free UAVs, inspired by bird flight. Imagine a drone powered entirely by solar energy, capable of ultra-long missions without the need for batteries. And if that’s not enough, Rishabh has also ventured into healthcare innovation with his work on phantom organs, like the phantom lung.

@@ -27,7 +27,7 @@ mathjax: false
 
 In this conversation, Batuhan discusses the evolving landscape of human-robot collaboration, emphasizing the importance of effective teamwork between humans and robots in various industries. He introduces HybridNet, a scheduling algorithm designed to optimize task allocation in heterogeneous teams, while addressing challenges such as scalability, trust, communication, and lifelong learning. The discussion highlights the adaptability of humans compared to robots and the necessity for human supervision in automated systems.
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/episode/66CQKWrURAYBrkyaYeaQlE?si=e1bd926410d54abc" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D0TRBZBxqpc?si=nG1XIZMOAE91dx23" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **The state of human-robot collaboration.** Human-robot collaboration (HRC) leverages the complementary strengths of humans and robots. Humans excel at adaptability and improvisation, while robots handle repetitive, precise, or hazardous tasks. Real-world examples, such as the Fukushima nuclear disaster and nurse-patient scheduling, highlight how collaboration outperforms fully autonomous systems. A key motivation for HRC is integrating robots into human spaces, removing physical barriers like cages in manufacturing while addressing safety and operational concerns.
 
@@ -45,6 +45,6 @@ In this conversation, Batuhan discusses the evolving landscape of human-robot co
 
 **Future directions in human-robot teaming.** The future of HRC lies in lifelong learning systems where robots continuously adapt through interaction with humans and environments. HybridNet supports online learning but faces challenges like avoiding local optima during training. Other frontiers include emotion-aware robots, democratized tools for collaboration, and integrating ethical considerations into task allocation to ensure both safety and human growth opportunities.
 
-> More of a visual learner? There's a YouTube video too. Click [here](https://www.youtube.com/watch?v=D0TRBZBxqpc).
+> On the go? There's an audio-only version too. Click [here](https://open.spotify.com/episode/66CQKWrURAYBrkyaYeaQlE?si=e1bd926410d54abc).
 
 Batuhan Altundas is a PhD student in the School of Interactive Computing working in the CORE Robotics Lab under Professor Matthew Gombolay at Georgia Tech.
