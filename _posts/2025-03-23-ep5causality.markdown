@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "#5 - Jeremy Collins: Causality, Consciousness & Video Learning in Robots"
+title: "#5 - Jeremy Collins: Causality, Consciousness, Video Learning"
 excerpt: "Jeremy discusses the importance of data augmentation techniques like RoCoDA, video learning with AMPLIFY, and the challenges of generalization in robotics. He emphasizes the significance of causality, the long tail problem in robotic tasks, and the future of robotics in real-world applications."
 date: 2025-03-23 19:30:00
 mathjax: false
