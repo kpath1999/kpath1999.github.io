@@ -1,0 +1,71 @@
+---
+layout: post
+comments: true
+title: "#6 - Manisha Natarajan: Trust & Dependence in Robotics"
+excerpt: "Manisha explores the complexities of trust in human-robot collaboration, from measuring and calibrating trust to the ethical challenges of robotic control. She discusses communication strategies, adapting robots to individual users, and the impact of stress in high-stakes scenarios."
+date: 2025-05-14 19:30:00
+mathjax: false
+---
+
+<style>
+.post-header h1 {
+    font-size: 35px;
+}
+.post pre,
+.post code {
+    background-color: #fcfcfc;
+    font-size: 13px;
+}
+.post blockquote {
+    font-style: italic;
+    background: #f9f9f9;
+    border-left: 5px solid #ccc;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
+</style>
+
+
+In this conversation, Manisha explores how robots can better understand and communicate with humans, especially in scenarios where both parties are imperfect. Her work delves into leveraging the strengths of both humans and robots to improve team performance and investigates the factors that influence human trust in robotic teammates.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=G4YO9n1I5iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Defining trust in human-robot collaboration.** Trust in human-robot relationships is defined as the belief that a robot will behave as expected, introducing a layer of vulnerability for the human. While trust in humans often involves assessing intentions and competence, trust in robots is primarily based on perceived competence. Humans tend to see robots more as tools, focusing on their reliability and performance, rather than as entities with intentions. But this is now changing.
+
+**Anthropomorphism in robots.** Anthropomorphism - how human-like a robot appears and behaves - significantly impacts trust. Manisha's research finds that gestures, tone, and adaptive behaviors (such as apologizing for mistakes) are more influential than physical appearance alone. Robots perceived as empathetic and adaptable foster greater trust, but there is a risk of the "uncanny valley" if the robots appear too human-like without matching human capabilities.
+
+**Task-driven philosophy in robotics.** Manisha adopts a task-driven approach, viewing robots primarily as partners to enhance efficiency and accomplish tasks humans cannot do alone. While emotional intelligence is valuable in certain contexts (e.g., elder care), her focus is on developing robots as effective teammates rather than companions with emotions.
+
+**Measuring trust dynamics.** Trust is dynamic and challenging to measure. Researchers use questionnaires and behavioral cues (like intervention frequency) to gauge trust. Longitudinal studies are rare due to practical constraints, but initial trust often fluctuates before stabilizing as humans learn more about a robot's capabilities.
+
+**Risks to blind trust.** Blind trust in robots is risky because robots are not infallible. Over-reliance can lead to missed errors, especially in critical applications like healthcare or search and rescue. Conversely, insufficient trust means not leveraging robotic strengths. The key is calibrating trust to balance human oversight with robotic assistance.
+
+**Trust calibration and its importance.** Trust calibration involves setting accurate expectations about a robot's strengths and limitations. This can be achieved through upfront communication about capabilities and ongoing feedback during collaboration. Acknowledging that robots will make mistakes helps users decide when to trust and when to intervene.
+
+**Communication strategies for trust.** Manisha's research shows that how robots communicate errors matters. Robots that apologize are liked but may discourage user vigilance, while those that prompt users to double-check encourage careful behavior. The optimal strategy balances likeability with promoting responsible human oversight.
+
+**Overriding human decisions.** In scenarios where robots are highly confident in their knowledge, temporarily overriding human decisions can improve task efficiency. However, user compliance varies, and robots must assess when taking control is appropriate versus when to defer to human judgement.
+
+**Ethical implications of robotic control.** Ethical issues arise when robots override humans, especially in safety-critical domains like self-driving cars. Accountability becomes complex - should errors be blamed on the human or the algorithm? While safety may justify intervention, the boundaries remain ethically and legally ambiguous.
+
+**Decision-making under uncertainty.** Real-world tasks often involve sequential decisions with uncertain outcomes. Robots can assist by computing possible consequences more efficiently than humans, but deciding who should control - human or robot - depends on relative competence and situational demands.
+
+**Impact of stress in high-stakes scenarios.** Stress can cause humans to over-rely on robots, perceiving tasks as more complex than they are. In high-pressure situations, people may defer to robotic decisions, sometimes without adequately evaluating their quality, highlighting the need for careful trust calibration.
+
+**Understanding and measuring human stress.** Measuring stress involves physiological sensors (heart rate, skin conductance) and subjective questionnaires. Howeever, stress responses are highly individual, making it challenging to create universal models for robot adaptation. Personalized data collection over time can improve accuracy.
+
+**Adapting robots to individual preferences.** Effective human-robot collaboration requires robots to adapt to individual user preferences, skills, and stress levels. Strategies include clustering users with similar traits and updating models based on ongoing interactions. Intelligent agents should query users when uncertain and refine their understanding continually.
+
+**Unpredictability of human behavior.** Humans are inherently unpredictable, often surprising researchers with unexpected behaviors. This unpredictability makes modeling and adapting to human partners a complex challenge, but it also keeps the field dynamic and intellectually stimulating.
+
+**The challenge of explainability in AI.** Explainability remains a major hurdle. While robots can provide explanations, verifying their accuracy is difficult, especially with black-box models. Manisha advocates for verifiable explanations that experts can audit to build trust and accountability.
+
+**Future challenges in human-robot interaction.** Key challenges ahead include generalizing user preferences across contexts, enabling robots to learn efficiently from demonstrations, and building robust, adaptive trust relationships. As robots become more capable, richer human-robot interactions will reveal new problems and opportunities for research.
+
+**Motivation and passion in research.** Manisha's passion for research stems from a desire to build agents that truly help people. Her journey was shaped by her advisor's mentorship and a fascination with how humans make decisions. She values the opportunity to contribute to a young, evolving field that blends technical innovation with human understanding.
+
+**Importance of mentorship in academia.** Mentorship and community are vital in academia. Manisha emphasizes the importance of support systems and giving back, both for personal growth and for advancing the field. Helping others not only enriches the academic environment but also fuels collective progress.
+
+> On the go? There's an audio-only version too. Click [here](https://open.spotify.com/episode/4sP70NCzwag3yNKkUmGhO2?si=6b057460bcd44580).
+
+Manisha Natarajan is a PhD student working at the intersection of AI and human-robot collaboration, advised by Professor Matthew Gombolay at Georgia Tech.
