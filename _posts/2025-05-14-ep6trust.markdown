@@ -28,7 +28,7 @@ mathjax: false
 
 In this conversation, Manisha explores how robots can better understand and communicate with humans, especially in scenarios where both parties are imperfect. Her work delves into leveraging the strengths of both humans and robots to improve team performance and investigates the factors that influence human trust in robotic teammates.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=G4YO9n1I5iQ&t=2788s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/G4YO9n1I5iQ?si=zu3rzNzUk9V7lY5G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Defining trust in human-robot collaboration.** Trust in human-robot relationships is defined as the belief that a robot will behave as expected, introducing a layer of vulnerability for the human. While trust in humans often involves assessing intentions and competence, trust in robots is primarily based on perceived competence. Humans tend to see robots more as tools, focusing on their reliability and performance, rather than as entities with intentions. But this is now changing.
 
