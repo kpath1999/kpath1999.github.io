@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "#8 - Harish Ravichandar: New Wine in Old Bottles"
+title: "#8 - Harish Ravichandar: Structured Robot Learning"
 excerpt: "Harish is actively exploring alternatives to the mainstream scaling approach in AI. The conversation his philosophy of using classical methods as scaffolding for modern robot learning. He covers his breakthrough work with Koopman operators for rapid skill learning."
 date: 2025-06-23 17:00:00
 mathjax: false
