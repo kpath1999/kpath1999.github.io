@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "#9 - Sehoon Ha: Learning-based Legged Locomotion"
+title: "#9 - Sehoon Ha: Expressive Robotic Locomotion & Cross-Morphology Imitation"
 excerpt: "Sehoon's interdisciplinary background allows him to approach robotics problems with insights from character animation, bringing concepts of grace, style, and expressiveness that are often overlooked in purely engineering-focused approaches to robot development."
 date: 2025-08-10 13:00:00
 mathjax: false
